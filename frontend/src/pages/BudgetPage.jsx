@@ -71,7 +71,7 @@ const BudgetPage = () => {
   };
 
   return (
-    <div className="p-6">
+    <div className="p-6 bg-black w-screen">
       <div className="flex justify-between">
         <h1 className="text-2xl font-bold mb-4">Budget Page</h1>
         <button
